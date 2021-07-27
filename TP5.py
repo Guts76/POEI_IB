@@ -6,4 +6,4 @@ for i in range (1,11):
         print("\t\t -",i,"x",j,"=",i*j)
     print("\n")   # permet de faire l'espace avec la prochaine table de multiplication  
 
-print("\n C'est terminé")
+print("\n C'est terminé.")
